@@ -5,7 +5,7 @@ Skills used: Joins, CTE's (Common Table Expressions), Temp Tables, Windows Funct
 
 Data Set used:- https://ourworldindata.org/covid-deaths
 
-Aim of the project: It definitely does give us some interesting insights into the real world data rather than just seeing what is on news websites.
+Aim of the project: It definitely does give some interesting insights into the real world data rather than just seeing what is on news websites.
 
 Insights from the project:
 
