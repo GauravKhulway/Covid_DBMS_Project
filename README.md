@@ -1,10 +1,16 @@
 # Covid_DBMS_Project
 Covid 19 Data Exploration using SQL 
+
 Skills used: Joins, CTE's (Common Table Expressions), Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
 Data Set used:- https://ourworldindata.org/covid-deaths
+
 Aim of the project: It definitely does give us some interesting insights into the real world data rather than just seeing what is on news websites.
+
 Insights from the project:
+
 -- Total Cases vs Total Deaths
+
 -- Shows likelihood of dying if you contract covid in your country
 -- Total Cases vs Population
 -- Shows what percentage of population infected with Covid
